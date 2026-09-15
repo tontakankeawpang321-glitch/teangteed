@@ -1,0 +1,6 @@
+{
+  "name": "Candlestick Library & AI Analyst",
+  "description": "คลังแท่งเทียนและเทคนิควิเคราะห์กราฟกว่า 500+ รูปแบบ พร้อมระบบ AI สแกนกราฟ แชทวิเคราะห์ และคลังคำศัพท์ภาษาเทรด 100 คำศัพท์",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
